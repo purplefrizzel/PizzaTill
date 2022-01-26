@@ -1,6 +1,6 @@
 # Pizza Till
 This was a project written for exam prep at college.
-The program is a basic till for a pizza place. You can view the [Exam Scenario.pdf](./Exam Scenario.pdf)
+The program is a basic till for a pizza place. You can view the <a href="./Exam Scenario.pdf">Exam Scenario.pdf</a>
 file for more details.
 
 ## Running
